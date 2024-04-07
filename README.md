@@ -1,0 +1,2 @@
+# hugo
+sample website hugo
