@@ -1,0 +1,7 @@
+baseURL = 'http://hugoduke3.s3-website.us-east-2.amazonaws.com'
+languageCode = 'en-us'
+title = 'HUGO PULIC WEB'
+theme = 'ananke'
+[[deployment.targets]]
+name="awsbucket"
+URL="s3://hugoduke3/?region=us-east-2"
